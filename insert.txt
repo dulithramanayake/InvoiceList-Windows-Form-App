@@ -1,0 +1,26 @@
+ try
+            {
+
+                con.Open();
+                //label4.Text = "Connection Successfull!";
+                SqlCommand cmd = con.CreateCommand();
+                cmd.CommandType = CommandType.Text;
+                string name = txtname.Text;
+                string location = txtlocation.Text;
+                
+                cmd.CommandText = "insert into data (name,location) values ('" + name + "', '" + location + "' )";
+                cmd.ExecuteNonQuery();
+                con.Close();
+                MessageBox.Show("Record has been inserted!");
+
+                txtid.Clear();
+                txtname.Clear();
+                txtlocation.Clear();
+                loadtable();
+               
+  
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Error" + ex);
+            }

@@ -1,0 +1,9 @@
+ da = new SqlDataAdapter("Select * From EmployeeDetails",cn);
+            dt = new DataTable();
+            da.Fill(dt);
+            DataRow dr = dt.NewRow();
+            dr["EmpName"] = "Select Employee Name";
+            dt.Rows.InsertAt(dr, 0);
+            cmbEmpName.ValueMember = "EmpId";
+            cmbEmpName.DisplayMember = "EmpName";
+            cmbEmpName.DataSource = dt;

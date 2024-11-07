@@ -1,0 +1,33 @@
+try
+            {
+
+                if (MessageBox.Show("Are you sure to delete?", "Delete Record", MessageBoxButtons.YesNo) == DialogResult.Yes)
+                {
+                    con.Open();
+                    //   label3.Text = "Connection Successfull!";
+                    SqlCommand cmd = con.CreateCommand();
+                    cmd.CommandType = CommandType.Text;
+
+                    int id = Convert.ToInt32(txtid.Text);
+
+                    cmd.CommandText = "delete from data where id = '" + id + "' ";
+                    // cmd.Parameters.Add(new OleDbParameter { Value = id });
+
+
+                    cmd.ExecuteNonQuery();
+
+                    con.Close();
+
+                    MessageBox.Show("Record has been deleted!");
+                    txtid.Clear();
+                    txtname.Clear();
+                    txtlocation.Clear();
+                    loadtable();
+                }
+
+
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Error" + ex);
+            }

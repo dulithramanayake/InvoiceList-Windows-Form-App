@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\InvoiceList",
+    "\\InvoiceList\\InvoiceList",
+    "\\InvoiceList\\InvoiceList\\InvoiceList"
+  ],
+  "SelectedNode": "\\InvoiceList\\InvoiceList\\InvoiceList\\InvMaster.cs",
+  "PreviewInSolutionExplorer": false
+}

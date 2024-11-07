@@ -1,0 +1,28 @@
+ try
+            {
+                int count = 0;
+                con.Open();
+                // label3.Text = "Connection Successfull!";
+
+                SqlCommand cmd = con.CreateCommand();
+                cmd.CommandType = CommandType.Text;
+                string name = txtSearch.Text;
+                cmd.CommandText = "select * from [data] where  name like  '%" + name + "%' ";
+                cmd.ExecuteNonQuery();
+                DataTable dt = new DataTable();
+                SqlDataAdapter da = new SqlDataAdapter(cmd);
+                da.Fill(dt);
+                count = Convert.ToInt32(dt.Rows.Count.ToString());
+                dataGridView1.DataSource = dt;
+
+                con.Close();
+
+                if (count == 0)
+                {
+                    MessageBox.Show("Record not found!");
+                }
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Error" + ex);
+            }

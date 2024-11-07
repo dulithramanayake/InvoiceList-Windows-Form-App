@@ -1,0 +1,31 @@
+C:\Users\msi\source\repos\InvoiceList\InvoiceList\bin\Debug\InvoiceList.exe.config
+C:\Users\msi\source\repos\InvoiceList\InvoiceList\bin\Debug\InvoiceList.exe
+C:\Users\msi\source\repos\InvoiceList\InvoiceList\bin\Debug\InvoiceList.pdb
+C:\Users\msi\source\repos\InvoiceList\InvoiceList\obj\Debug\InvoiceList.csproj.AssemblyReference.cache
+C:\Users\msi\source\repos\InvoiceList\InvoiceList\obj\Debug\InvoiceList.Form1.resources
+C:\Users\msi\source\repos\InvoiceList\InvoiceList\obj\Debug\InvoiceList.Properties.Resources.resources
+C:\Users\msi\source\repos\InvoiceList\InvoiceList\obj\Debug\InvoiceList.csproj.GenerateResource.cache
+C:\Users\msi\source\repos\InvoiceList\InvoiceList\obj\Debug\InvoiceList.csproj.CoreCompileInputs.cache
+C:\Users\msi\source\repos\InvoiceList\InvoiceList\obj\Debug\InvoiceList.exe
+C:\Users\msi\source\repos\InvoiceList\InvoiceList\obj\Debug\InvoiceList.pdb
+C:\Users\User\Documents\Dulith\Visual Studio\InvoiceList\InvoiceList\InvoiceList\bin\Debug\InvoiceList.exe.config
+C:\Users\User\Documents\Dulith\Visual Studio\InvoiceList\InvoiceList\InvoiceList\bin\Debug\InvoiceList.exe
+C:\Users\User\Documents\Dulith\Visual Studio\InvoiceList\InvoiceList\InvoiceList\bin\Debug\InvoiceList.pdb
+C:\Users\User\Documents\Dulith\Visual Studio\InvoiceList\InvoiceList\InvoiceList\obj\Debug\InvoiceList.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Dulith\Visual Studio\InvoiceList\InvoiceList\InvoiceList\obj\Debug\InvoiceList.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Documents\Dulith\Visual Studio\InvoiceList\InvoiceList\InvoiceList\obj\Debug\InvoiceList.Form1.resources
+C:\Users\User\Documents\Dulith\Visual Studio\InvoiceList\InvoiceList\InvoiceList\obj\Debug\InvoiceList.Properties.Resources.resources
+C:\Users\User\Documents\Dulith\Visual Studio\InvoiceList\InvoiceList\InvoiceList\obj\Debug\InvoiceList.csproj.GenerateResource.cache
+C:\Users\User\Documents\Dulith\Visual Studio\InvoiceList\InvoiceList\InvoiceList\obj\Debug\InvoiceList.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Dulith\Visual Studio\InvoiceList\InvoiceList\InvoiceList\obj\Debug\InvoiceList.exe
+C:\Users\User\Documents\Dulith\Visual Studio\InvoiceList\InvoiceList\InvoiceList\obj\Debug\InvoiceList.pdb
+C:\Dulith\Visual Studio\InvoiceList\InvoiceList\InvoiceList\InvoiceList\bin\Debug\InvoiceList.exe.config
+C:\Dulith\Visual Studio\InvoiceList\InvoiceList\InvoiceList\InvoiceList\bin\Debug\InvoiceList.exe
+C:\Dulith\Visual Studio\InvoiceList\InvoiceList\InvoiceList\InvoiceList\bin\Debug\InvoiceList.pdb
+C:\Dulith\Visual Studio\InvoiceList\InvoiceList\InvoiceList\InvoiceList\obj\Debug\InvoiceList.csproj.AssemblyReference.cache
+C:\Dulith\Visual Studio\InvoiceList\InvoiceList\InvoiceList\InvoiceList\obj\Debug\InvoiceList.Form1.resources
+C:\Dulith\Visual Studio\InvoiceList\InvoiceList\InvoiceList\InvoiceList\obj\Debug\InvoiceList.Properties.Resources.resources
+C:\Dulith\Visual Studio\InvoiceList\InvoiceList\InvoiceList\InvoiceList\obj\Debug\InvoiceList.csproj.GenerateResource.cache
+C:\Dulith\Visual Studio\InvoiceList\InvoiceList\InvoiceList\InvoiceList\obj\Debug\InvoiceList.csproj.CoreCompileInputs.cache
+C:\Dulith\Visual Studio\InvoiceList\InvoiceList\InvoiceList\InvoiceList\obj\Debug\InvoiceList.exe
+C:\Dulith\Visual Studio\InvoiceList\InvoiceList\InvoiceList\InvoiceList\obj\Debug\InvoiceList.pdb

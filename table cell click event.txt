@@ -1,0 +1,10 @@
+   if (dataGridView1.Rows[e.RowIndex].Cells[e.ColumnIndex].Value != null)
+            {
+                dataGridView1.CurrentRow.Selected = true;
+                txtid.Text = dataGridView1.Rows[e.RowIndex].Cells["id"].FormattedValue.ToString();
+                txtname.Text = dataGridView1.Rows[e.RowIndex].Cells["name"].FormattedValue.ToString();
+                txtlocation.Text = dataGridView1.Rows[e.RowIndex].Cells["location"].FormattedValue.ToString();
+                
+
+
+            }

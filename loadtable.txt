@@ -1,0 +1,21 @@
+ try
+            {
+
+                con.Open();
+                // label3.Text = "Connection Successfull!";
+
+                SqlCommand cmd = con.CreateCommand();
+                cmd.CommandType = CommandType.Text;
+                cmd.CommandText = "select * from [data]";
+                cmd.ExecuteNonQuery();
+                DataTable dt = new DataTable();
+                SqlDataAdapter da = new SqlDataAdapter(cmd);
+                da.Fill(dt);
+                dataGridView1.DataSource = dt;
+
+                con.Close();
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Error" + ex);
+            }

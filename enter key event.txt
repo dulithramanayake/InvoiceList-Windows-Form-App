@@ -1,0 +1,7 @@
+ if (e.KeyCode == Keys.Enter)
+            {
+                txtlocation.Focus();
+            }
+
+
+//keyup event
